@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SntpTime</id>
+    <version>$version$</version>
+    <title>SntpTime</title>
+    <authors>Kevin Kinnett</authors>
+    <owners>Kevin Kinnett</owners>
+    <licenseUrl>http://kevinkinnett.com</licenseUrl>
+    <projectUrl>http://kevinkinnett.com/ContentPages/SntpTime/SntpTime.aspx</projectUrl>
+    <iconUrl>http://kevinkinnett.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SntpTime is a client that retrieves the time from the specified time server.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags></tags>
+  </metadata>
+</package>
